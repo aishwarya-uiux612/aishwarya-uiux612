@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Aishwarya  
+🎓 Computer Science Student  
+💻 Aspiring Software Developer  
+🎨 UI/UX Enthusiast 
 
-<!--
-**aishwarya-uiux612/aishwarya-uiux612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me ✨
+- Currently pursuing **B.Sc. Computer Science**
+- Building a strong foundation in **programming & problem-solving**
+- Learning by creating **real-world projects**
+- Interested in **UI/UX design** and creating **user-friendly digital experiences**
 
-Here are some ideas to get you started:
+## 🛠️ Programming Languages & Tools 💡
+- 🐍 Python  
+- 💻 C  
+- ⚙️ C++  
+- ☕ Java  
+- 🌐 HTML  
+- 🎨 CSS  
+- ✨ JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm Working On 📚
+- Internship projects at **Oasis Infobyte**
+- Strengthening core programming concepts
+- Improving GitHub usage and project documentation
+- Exploring the intersection of **development + UI/UX**
+
+## 🌱 Currently Learning 🚀
+- Advanced **Java & Python**
+- Frontend development
+- UI/UX design fundamentals
+
+## 📫 Connect With Me 🌍
+- 🐙 GitHub: https://github.com/aishwarya-uiux612/
+- 💼 LinkedIn: https://www.linkedin.com/in/aishwarya-s-a96a85399?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BREvjbGrgT1e8zi2Rmv05bg%3D%3D  
+- 📸 Instagram: https://www.instagram.com/aishwarya13242/
+
+⭐ Thanks for visiting my profile! Happy coding 😊
