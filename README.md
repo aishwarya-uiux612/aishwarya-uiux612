@@ -25,7 +25,6 @@
 - Exploring the intersection of **development + UI/UX**
 
 ## 🌱 Currently Learning 🚀
-- Advanced **Java & Python**
 - Frontend development
 - UI/UX design fundamentals
 
